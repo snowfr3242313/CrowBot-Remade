@@ -1,8 +1,8 @@
 {
-    "token": "token",
+    "token": "MTEyOTA4MjM3MzYyNDA1Nzg3Ng.GIuQO2.m-1Al9wFySwxB48nCXnROBI5TDzG597ik07hkA",
     "color": "embecolor",
-    "prefix": "&",
-    "name": "Footer Name",
+    "prefix": "+help",
+    "name": "+crowbot",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
